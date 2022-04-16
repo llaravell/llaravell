@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=https://github.com/llaravell/laravell/raw/main/images/banner.png />
+  <img src=https://github.com/llaravell/llaravell/raw/main/images/banner.png />
 </p>
 
 ### Hello everyone <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Taha Shokri
