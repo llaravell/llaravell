@@ -38,7 +38,9 @@ A Full Stack Developer With MEAN Stack</p>
   <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=llaravell&theme=radical" alt="mystreak"/>
   <br/><br/>
-  <img src=https://github-readme-stats.vercel.app/api/pin/?username=llaravell&repo=llaravell.github.io />
+  <a href=https://github.com/llaravell/llaravell.github.io target=_blank><img src=https://github-readme-stats.vercel.app/api/pin/?username=llaravell&repo=llaravell.github.io /> </a>
+  <br/><br/>
+  <img src=https://activity-graph.herokuapp.com/graph?username=llaravell&theme=react-dark&hide_border=true&area=true />
   <br/><br/>
   <img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dllaravell&longCache=true"/>
   <img src="https://img.shields.io/github/stars/llaravell?label=Stars" alt="stars">
