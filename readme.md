@@ -7,6 +7,7 @@
   <kbd>
   <img src=https://pbs.twimg.com/profile_images/1173490464617615360/pVmA-hP8_400x400.jpg width=100 height=100 />
     </kbd>
+  <br/><br/>
 A Full Stack Developer With MEAN Stack</p>
 </p>
 
@@ -18,9 +19,12 @@ A Full Stack Developer With MEAN Stack</p>
 ## 👨🏻‍💻 Somethings that I Love them
 
 <p align="center">
+  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/> </a>
+  <a href="https://www.expressjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="expressjs" width="40" height="40"/> </a>
+  <a href="https://www.angular.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" width="40" height="40"/> </a> 
+  <a href="https://www.nestjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="nest" width="40" height="40"/> </a> 
     <a href="https://www.nodejs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> </a> 
-    <a href="https://www.angular.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" width="40" height="40"/> </a> 
-    <a href="https://www.nestjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="nest" width="40" height="40"/> </a> 
+  <a href="https://www.docker.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/> </a> 
     <a href="https://www.linux.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/> </a> 
      <a href="https://getfedora.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getfedora/getfedora-icon.svg" alt="fedora" width="40" height="40"/> </a> 
 <a href="https://ubuntu.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" width="40" height="40"/> </a>  <br>
